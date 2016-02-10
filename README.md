@@ -31,7 +31,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Deep Learning with Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html)
 - [Tensorflow and monetizing intellectual property](https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/)
-- [webapplog.com](http://webapplog.com/tag/node-js/) — Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
 
 
 ### Courses
