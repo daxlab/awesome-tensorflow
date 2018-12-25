@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Simple tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 - [Code examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 - [From the basics to slightly more interesting applications of Tensorflow](https://github.com/pkmital/tensorflow_tutorials)
+- [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/)
 
 
 ### Whitepapers
